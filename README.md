@@ -2,7 +2,8 @@
 
  <div>
    <a href="https://github.com/Ju-Santos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?
+    username=Ju-Santos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/
     ?username=Ju-Santos&layout=compact&langs_count=6&theme=tokyonight"/>
 
